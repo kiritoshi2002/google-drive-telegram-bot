@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1823594939:AAGzTAFUCXxlOPjWKt1W9XvwLx1zGdnh4Aw"
+    APP_ID = "7873544"
+    API_HASH = "dc08f1e11166dc91ca9005bfeb1ff42d"
+    DATABASE_URL = "postgres://pjlwqqdjolyjiw:6efd27f7bd94de542c875e2a677131a59e894614abd6006d5b5094fb39c0706a@ec2-34-234-12-149.compute-1.amazonaws.com:5432/dcb3vgl2g4rutf"
+    SUDO_USERS = "1143648407" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://viperadnan-git.github.io"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
